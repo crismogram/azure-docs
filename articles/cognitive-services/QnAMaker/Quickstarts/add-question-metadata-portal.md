@@ -86,7 +86,7 @@ Adding metadata to a question and answer set allows your client application to r
 1. Add metadata pairs for the same two metadata tags:
 
     `link_in_answer` : `true`<br>
-    `server`: `qna_maker`
+    `service`: `qna_maker`
 
     You now have two questions with the same metadata tags with different values.
 
